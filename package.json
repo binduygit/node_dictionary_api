@@ -1,0 +1,22 @@
+{
+  "name": "node_dictionary_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "handlebars": "^4.7.7",
+    "merge-json": "^0.1.0-b.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
